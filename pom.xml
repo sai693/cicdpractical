@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.reljicd</groupId>
-    <artifactId>shopping-cart</artifactId>
+    <artifactId>cicdpractical</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>shopping-cart</name>
+    <name>cicdpractical</name>
     <description>Demo project for Spring Boot Shopping Cart</description>
 
     <parent>
@@ -152,12 +152,12 @@
     <repository>
       <id>maven-releases</id>
       <name>maven-releases</name>
-      <url>http://3.108.254.192:8081/repository/maven-releases/</url>
+      <url>http://34.58.75.249:8081/repository/maven-releases/</url>
     </repository>
     <snapshotRepository>
       <id>maven-snapshots</id>
       <name>maven-snapshots</name>
-      <url>http://3.108.254.192:8081/repository/maven-snapshots/</url>
+      <url>http://34.58.75.249/:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
 </distributionManagement>
 
